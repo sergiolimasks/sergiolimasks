@@ -148,12 +148,17 @@ Kanban pipeline, round-robin assignment with atomic balance debit, financial led
 
 ---
 
-### Stats
+### Languages
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sergiolimasks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiolimasks&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-33.2%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-26.6%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-25.8%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-7.8%25-777BB4?style=flat-square&logo=php&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3.0%25-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1.2%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-1.0%25-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+<sub>Across public repositories, by code volume.</sub>
 
 ---
 
